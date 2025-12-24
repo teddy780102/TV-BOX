@@ -15,6 +15,14 @@
             "ext": "./lib/douban.json"
         },
         {
+            "key": "py_麻豆",
+            "name": "麻豆",
+            "type": 1,
+            "api": "http://www.9191md.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "✨水果派✨",
             "name": "✨水果派✨",
             "type": 3,
